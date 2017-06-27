@@ -1,0 +1,3 @@
+rootProject.name = 'Nutricionista'
+
+include ':app'
